@@ -6,6 +6,8 @@ public class Program {
 		System.out.println("Demo!");
 		//Comment
 		System.out.println("a lot of changes!");
+		//Comment
+		System.out.println("3 commit");
 	}
 
 }
