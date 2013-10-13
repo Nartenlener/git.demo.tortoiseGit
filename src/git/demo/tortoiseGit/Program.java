@@ -8,6 +8,8 @@ public class Program {
 		System.out.println("a lot of changes!");
 		//Comment
 		System.out.println("3 commit");
+		
+		System.out.println("Test commit");
 	}
 
 }
